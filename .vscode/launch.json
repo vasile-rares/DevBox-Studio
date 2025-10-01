@@ -9,7 +9,9 @@
             "args": [
                 "run",
                 "--project",
-                "${workspaceFolder}/Backend/DevBox.API/DevBox.API.csproj"
+                "${workspaceFolder}/Backend/DevBox.API/DevBox.API.csproj",
+                "--launch-profile",
+                "https"
             ],
             "cwd": "${workspaceFolder}/Backend/DevBox.API",
             "console": "integratedTerminal",

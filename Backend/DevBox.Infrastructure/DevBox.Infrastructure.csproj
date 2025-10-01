@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\DevBox.Application\DevBox.Application.csproj" />
+    <ProjectReference Include="..\DevBox.Domain\DevBox.Domain.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
